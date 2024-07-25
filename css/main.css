@@ -19,3 +19,11 @@ h1 {
 h2 {
   font-size: 1.5em;
 }
+
+/* Styles for tablet */
+
+@media screen and (min-width: 768px) {}
+
+/* Styles for desktop */
+
+@media screen and (min-width: 1200px) {}
